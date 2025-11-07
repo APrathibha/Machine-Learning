@@ -1,0 +1,3 @@
+This machine learning model predicts house prices based on property features such as the number of bedrooms, bathrooms, square footage, location details, and construction year. The dataset was preprocessed to handle missing values, encode categorical variables, and scale numerical features.
+
+A Random Forest Regressor was trained using the processed data, as it performs well for structured datasets with both numeric and categorical attributes. The model’s performance was evaluated using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² Score, which together measure prediction accuracy and reliability
